@@ -1,0 +1,9 @@
+Rahul: Thanks for joining. We need to finish the new dashboard by Friday.
+Priya: I can complete the login and registration screens by Thursday.
+Aman: I'll connect the analytics API by Monday.
+Rahul: Let's use MongoDB to store meeting records.
+Priya: Should we include Google sign-in in the first release?
+Rahul: No, let's keep it out of version one and revisit next sprint.
+Aman: We should test the dashboard with five users before launch.
+Rahul: Good idea. Priya, can you coordinate the user testing?
+Priya: Yes, I'll arrange it for Friday afternoon.
